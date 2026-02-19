@@ -1,2 +1,2 @@
-Now we get into deep Diophantine equations theory. I have found some theory regarding the classification of
-all the solutions to the anomaly equations.
+These notes were born from a simple necessity: consolidating scattered theorems and results regarding quadratic Diophantine equations into one cohesive place. It is a brilliant subject, and what follows is just a brief, humble glimpse into a much larger mathematical world. I have intentionally stripped away all citations and references. These notes rely entirely on their own self-consistency, padded only by a few introductory historical facts you can easily search yourself. As long as the logical steps are sound and the proofs are complete, no bibliography is required. \\
+Math is self-evident.
